@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-23)
+## Unreleased (2025-03-07)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`077d03c`](https://github.com/stdlib-js/stdlib/commit/077d03c9b5f1685bc933fd143ee7cb8db25957b0) - **chore:** remove duplicate keywords [(#5845)](https://github.com/stdlib-js/stdlib/pull/5845) _(by Karan Anand)_
 -   [`0622cf1`](https://github.com/stdlib-js/stdlib/commit/0622cf1018078943f26ea1cdadefc448f0038649) - **docs:** fix line wrapping [(#5389)](https://github.com/stdlib-js/stdlib/pull/5389) _(by fadiothman22)_
 -   [`eb61ba4`](https://github.com/stdlib-js/stdlib/commit/eb61ba42a289f290c5500d0e0eacfca960c44700) - **feat:** add `stats/base/dists/bradford/cdf` [(#5282)](https://github.com/stdlib-js/stdlib/pull/5282) _(by Karan Anand, Philipp Burckhardt)_
 
